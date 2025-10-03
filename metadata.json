@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Studio",
+  "description": "A modern web application that allows users to generate high-quality images from text prompts using the power of Google's Gemini API.",
+  "requestFramePermissions": []
+}
